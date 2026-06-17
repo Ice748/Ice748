@@ -8,7 +8,7 @@ I am an *indie developer* focusing on **C** and **C using raylib** for my main p
 ---
 
 # My projects
-Currently I have **3** repositories:
+Currently I have **4** repositories:
 - **meowpixel**: A very simple pixel art maker program. Free to use, open source and fast! Enjoy! (:
 - **JCat**: Less fuss. More Java. A simple GUI Java Project Manager. Free to use and open source. Enjoy! (:
 - **meow-lang**: An open source esolang written in pure C. Enjoy! (:
