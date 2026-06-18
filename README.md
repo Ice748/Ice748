@@ -12,7 +12,7 @@ Currently I have **4** repositories:
 - **meowpixel**: A very simple pixel art maker program. Free to use, open source and fast! Enjoy! (:
 - **JCat**: Less fuss. More Java. A simple GUI Java Project Manager. Free to use and open source. Enjoy! (:
 - **meow-lang**: An open source esolang written in pure C. Enjoy! (:
-- **Calculator++**: An advanced calculator written in pure Rust. Free to use and open source. Enjoy! (:
+- **Calculator++**: A terminal-based advanced calculator written in pure Rust. Free to use and open source. Enjoy! (:
 
 All my projects are **free to use** and **open source**!
 
