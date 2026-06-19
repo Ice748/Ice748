@@ -11,8 +11,9 @@ I am an *indie developer* focusing on **C** and **C using raylib** for my main p
 Currently I have **4** repositories:
 - **meowpixel**: A very simple pixel art maker program. Free to use, open source and fast! Enjoy! (:
 - **JCat**: Less fuss. More Java. A simple GUI Java Project Manager. Free to use and open source. Enjoy! (:
-- **meow-lang**: An open source esolang written in pure C. Enjoy! (:
+- **purr-lang**: An open source esolang written in pure C. Enjoy! (:
 - **Calculator++**: A terminal-based advanced calculator written in pure Rust. Free to use and open source. Enjoy! (:
+- **meow-lang**: An open source interpretable programming language written in pure C. Designed to solve any task: from console applications to entire OS, web development and desktop applications. It's built to be fast, lightweight, and super easy to learn for everyone! Enjoy! (:
 
 All my projects are **free to use** and **open source**!
 
