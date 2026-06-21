@@ -14,6 +14,7 @@ Currently I have **5** repositories:
 - **purr-lang**: An open source esolang written in pure C. Enjoy! (:
 - **Calculator++**: A terminal-based advanced calculator written in pure Rust. Free to use and open source. Enjoy! (:
 - **meow-lang**: An open source interpretable programming language written in pure C. Designed to solve any task: from console applications to entire OS, web development and desktop applications. It's built to be fast, lightweight, and super easy to learn for everyone! Enjoy! (:
+- **Not a Platformer**: A classic retro adventure. You play as a knight named Plinky, and your mission is simple: save the princess. Don't worry, this is definitely NOT one of those unfair rage games... or is it?
 
 All my projects are **free to use** and **open source**!
 
