@@ -25,6 +25,7 @@ All my projects are **free to use** and **open source**!
 - **raylib** (Game Library)
 - **Java** (Programming Language)
 - **Rust** (Programming Language)
+- **Godot** (Game Engine)
 
 ---
 
