@@ -26,6 +26,9 @@ More stuff coming soon...
 ## Tech Stack ⚙️
 - Programming Languages: **C**, **Rust**
 - Game Engine: **Godot**
+- Music Editor: **LMMS**
+- Photo Editor: **GIMP**
+- 3D Models Editor: **Blender**
 
 ---
 
@@ -38,4 +41,4 @@ Meet **Arni**!
 He is the mascot of all my projects! (:
 
 ## Support ❤️
-You can *easily* support me — just **star** any of my repositories and you'll make me and Arni **REALLY** happy! :D
+You can _easily_ support me — just **star** any of my repositories and you'll make me and Arni **REALLY** happy! :D
