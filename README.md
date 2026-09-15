@@ -1,16 +1,38 @@
-## Hi there 👋
-
 <!--
-**Ice748/Ice748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um... Hello?
+I don't really know how you got there...
+Uhmmm... I think, while you're here, I want to tell you a secret...
+Don't tell anyone... Really, don't tell anyone: the only ones who know this secret are me, Arni and you...
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I like oranges (:
 -->
+
+# Hi! 👋
+I'm **Ice748**!  
+I'm `programmer`, **game developer**, _music composer_, ***designer*** and much more! :D
+
+---
+
+## Roadmap 🗺️
+- [ ] **Vehicle Mania**: Racing humorous game where you have to drive, swim, fly and **CRASH** your vehicle into useless trash!  
+***[CURRENTLY WORKING ON]***
+- [ ] `??? ????????`
+- [ ] `????? ????????`
+- [ ] `??? ??? ??????? ???????`
+
+## Tech Stack 🛠️
+- Programming Languages: **C**, **Rust**
+- Game Engine: **Godot**
+
+---
+
+## Arni 😺
+Meet **Arni**!
+```text
+|\__/ |  ( )
+|o o  |   ) )
+```
+He is the mascot of all my projects! (:
+
+## Support ❤️
+You can *easily* support me — just **star** any of my repositories and you'll make me and Arni **REALLY** happy! :D
