@@ -7,14 +7,14 @@ Don't tell anyone... Really, don't tell anyone: the only ones who know this secr
 I like oranges (:
 -->
 
-# Hi! 👋
+# Hi!
 I'm **Ice748**!  
 I'm `programmer`, **game developer**, _music composer_, ***designer*** and much more! :D
 
 ---
 
-## Roadmap 🗺️
-| Games 🕹️ | Tools 🛠️ | TUI Stuff `>_`  |
+## Roadmap
+| Games | Tools | TUI Stuff |
 |---|---|---|
 | `??????? ?????` | `????` | `???????????` |
 | `??? ????????` | `????` | |
@@ -23,7 +23,7 @@ I'm `programmer`, **game developer**, _music composer_, ***designer*** and much 
 
 More stuff coming soon...
 
-## Tech Stack ⚙️
+## Tech Stack
 - Programming Languages: **C**, **Rust**
 - Game Engine: **Godot**
 - Music Editor: **LMMS**
@@ -32,7 +32,7 @@ More stuff coming soon...
 
 ---
 
-## Arni 😺
+## Arni
 Meet **Arni**!
 ```text
 |\__/ |  ( )
