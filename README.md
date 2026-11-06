@@ -23,6 +23,19 @@ I also use **Godot** and **raylib** to make *video games*!
 I work only on **Saturdays** and **Sundays**.  
 In the summer I work ***every day!*** :D
 
+---
+
+## Arni
+```text
+|\__/ |  ( )
+|o o  |   ) )
+```
+This is **Arni**.  
+He's mascot of all my projects!
+
+## Support ❤️
+If you want to support me, just **star** any of my repositories and you'll make me ***REALLY happy! :D***
+
 
 <!--
 **Ice748/Ice748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
