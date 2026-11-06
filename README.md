@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+
+  # Hi there 👋
+  I'm **Ice748** and I'm a `programmer`, **game developer**, ***artist***, and *music composer*.
+
+</div>
 
 <!--
 **Ice748/Ice748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
