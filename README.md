@@ -2,17 +2,26 @@
 
   # Hi! (:
   I'm **Ice748** — a `programmer`, **game developer**, ***artist***, and *music composer*.  
-  Usually make some cool stuff. (:
+  I usually make some cool stuff. (:
 
 </div>
 
-## Tools
-I use **C** and **Rust** to make some *tui stuff* and *small programs*.  
-I also use **Godot** to make *video games*!
+---
 
-## Working hours
+## About me
+- **Lightweight**: I write software that weights little and launches instantly.
+- **Kind of stuff**: I don't usually build serious software. I make things with a soul and a sense of humor.
+- **Engine choice:** **Godot** for games because it's *lightweight*, *open-source*, *free*, and I don't know other game engines. /:
+
+## Tools
+I use **C** and **Rust** to make some *TUI apps* and *small programs*.  
+I also use **Godot** and **raylib** to make *video games*!
+
+---
+
+## Working Hours
 I work only on **Saturdays** and **Sundays**.  
-In summer I work ***every day!*** :D
+In the summer I work ***every day!*** :D
 
 
 <!--
