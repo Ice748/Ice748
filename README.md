@@ -1,9 +1,15 @@
 <div align="center">
 
-  # Hi there 👋
-  I'm **Ice748** and I'm a `programmer`, **game developer**, ***artist***, and *music composer*.
+  # Hi! (:
+  I'm **Ice748** — a `programmer`, **game developer**, ***artist***, and *music composer*.  
+  Usually make some cool stuff. (:
 
 </div>
+
+## Working hours
+I work only on **Saturdays** and **Sundays**.  
+In summer I work ***every day!*** :D
+
 
 <!--
 **Ice748/Ice748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
