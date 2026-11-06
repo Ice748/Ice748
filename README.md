@@ -6,6 +6,10 @@
 
 </div>
 
+## Tools
+I use **C** and **Rust** to make some *tui stuff* and *small programs*.  
+I also use **Godot** to make *video games*!
+
 ## Working hours
 I work only on **Saturdays** and **Sundays**.  
 In summer I work ***every day!*** :D
