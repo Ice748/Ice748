@@ -11,7 +11,6 @@
 ## About me
 - **Lightweight**: I write software that weights little and launches instantly.
 - **Kind of stuff**: I don't usually build serious software. I make things with a soul and a sense of humor.
-- **Engine choice:** **Godot** for games because it's *lightweight*, *open-source*, *free*, and I don't know other game engines. /:
 
 ## Tools
 I use **C** and **Rust** to make some *TUI apps* and *small programs*.  
